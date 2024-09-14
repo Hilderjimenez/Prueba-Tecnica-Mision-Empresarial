@@ -5,6 +5,8 @@
 
    - **.NET Core**: Versión 8.0
 
+La conexion a la base de datos se configura dentro del appsettingsjson allí se debe de cambiar el motor de base de datos local donde se este probando la api su usuario y contraseña
+
 2. Repositorios
 
 
