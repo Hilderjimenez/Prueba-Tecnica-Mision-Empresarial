@@ -1,0 +1,6 @@
+@APIMercancías_JyC_HostAddress = http://localhost:5078
+
+GET {{APIMercancías_JyC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
