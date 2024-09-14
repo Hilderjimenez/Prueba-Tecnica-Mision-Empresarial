@@ -1,1 +1,19 @@
 
+#### Backend
+
+1. **Requisitos**
+
+   - **.NET Core**: Versión 8.0
+
+2. Repositorios
+
+
+- **Backend**: [Enlace al repositorio backend](https://github.com/Hilderjimenez/Prueba-Tecnica-Mision-Empresarial/tree/master/APIMercanc%C3%ADas%20JyC)
+- **Data**: (https://github.com/Hilderjimenez/Prueba-Tecnica-Mision-Empresarial/blob/master/scriptMercaciasJyC.sql)
+
+
+2.*Ejecucion directamente con swagger*
+
+### 3. Scripts para Crear la Base de Datos y Tablas 
+Se encuentra dentro del repositorio
+   
